@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    background-color:beige;
+    text-align: center;
+    font-size: 130%;
+}
+h2 {
+    color: purple;
+}
+thead {
+    font-weight: bold;
+    background-color: plum;
+    height: 25px;
+}
+table {
+    border: 2px solid purple;
+    left: 200px;
+    margin-left: 250px;
+    margin: 0 auto;
+}
+.description {
+    text-align: left;
+    width: 550px;
+}
+.code{
+    background-color: whitesmoke;
+    width: 80px;
+}
+td {
+    width: 120px;
+    border-top: 1px solid purple;
+}
